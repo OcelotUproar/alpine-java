@@ -1,5 +1,5 @@
 NAME=alpine-java
-TAG=7
+TAG=8
 default: build
 
 build: 
